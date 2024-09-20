@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Restoran\Restoran\bin\Debug\net8.0\Restoran.exe
+C:\Users\User\source\repos\Restoran\Restoran\bin\Debug\net8.0\Restoran.deps.json
+C:\Users\User\source\repos\Restoran\Restoran\bin\Debug\net8.0\Restoran.runtimeconfig.json
+C:\Users\User\source\repos\Restoran\Restoran\bin\Debug\net8.0\Restoran.dll
+C:\Users\User\source\repos\Restoran\Restoran\bin\Debug\net8.0\Restoran.pdb
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.AssemblyInfo.cs
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.dll
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\refint\Restoran.dll
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.pdb
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\Restoran.genruntimeconfig.cache
+C:\Users\User\source\repos\Restoran\Restoran\obj\Debug\net8.0\ref\Restoran.dll
